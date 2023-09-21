@@ -4,7 +4,7 @@ Library System with Python (SQLite,PYQT6)
 **** Features Used ****
 
 - Class usage
-- Değişkenler
+- Variables
 - if usage
 - For usage
 - While usage
@@ -13,6 +13,7 @@ Library System with Python (SQLite,PYQT6)
 - Legacy usage
 - qWait usage
 - SQLite usage
+- PyQt usage
 - Function usage
 - vs. vs.
 
